@@ -1,4 +1,4 @@
-# Arduino-tab-changer
+# UltraSonicTabSwitcher
 
 A small project that allows automated control and switching between tabs or inputs using an Arduino sensor system. The project demonstrates basic integration between Python and Arduino, reading sensor input and using it to trigger tab changes or other events on a computer.
 
